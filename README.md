@@ -1,5 +1,7 @@
 # Blip Task Pet
 
+   **▶ Play now:** https://zhaodeya030.github.io/Blip/
+
 Blip is a task tracker with a growing pixel pet. Type or speak your tasks, complete them to earn XP, and help Blip evolve while unlocking badges.
 
 Built with HTML, CSS, and vanilla JavaScript. Progress is saved in your browser.
